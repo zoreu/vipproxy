@@ -1,5 +1,5 @@
-# meuxc
-meu xc
+# proxy oneplay vip
+Oneplay VIP proxy
 
 ## tutorial
 
